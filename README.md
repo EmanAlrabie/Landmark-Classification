@@ -8,3 +8,6 @@ Pre-requisites
 - numpy Version: 1.12.1
 - torch Version: 0.4.0
 - torchvision Version: 0.2.1
+- CV2
+- PIL 
+- Maybe needs to use GPU.
